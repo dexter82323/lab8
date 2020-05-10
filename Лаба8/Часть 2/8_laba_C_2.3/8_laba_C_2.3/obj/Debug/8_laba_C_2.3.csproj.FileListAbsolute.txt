@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Лаба8\Часть 2\8_laba_C_2.3\8_laba_C_2.3\bin\Debug\8_laba_C_2.3.exe.config
+C:\Users\User\Desktop\Лаба8\Часть 2\8_laba_C_2.3\8_laba_C_2.3\bin\Debug\8_laba_C_2.3.exe
+C:\Users\User\Desktop\Лаба8\Часть 2\8_laba_C_2.3\8_laba_C_2.3\bin\Debug\8_laba_C_2.3.pdb
+C:\Users\User\Desktop\Лаба8\Часть 2\8_laba_C_2.3\8_laba_C_2.3\obj\Debug\8_laba_C_2.3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Лаба8\Часть 2\8_laba_C_2.3\8_laba_C_2.3\obj\Debug\_8_laba_C_2._3.Form1.resources
+C:\Users\User\Desktop\Лаба8\Часть 2\8_laba_C_2.3\8_laba_C_2.3\obj\Debug\_8_laba_C_2._3.Properties.Resources.resources
+C:\Users\User\Desktop\Лаба8\Часть 2\8_laba_C_2.3\8_laba_C_2.3\obj\Debug\8_laba_C_2.3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Лаба8\Часть 2\8_laba_C_2.3\8_laba_C_2.3\obj\Debug\8_laba_C_2.3.exe
+C:\Users\User\Desktop\Лаба8\Часть 2\8_laba_C_2.3\8_laba_C_2.3\obj\Debug\8_laba_C_2.3.pdb

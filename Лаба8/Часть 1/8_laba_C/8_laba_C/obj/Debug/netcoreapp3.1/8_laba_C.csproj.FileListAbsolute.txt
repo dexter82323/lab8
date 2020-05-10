@@ -1,0 +1,22 @@
+C:\Users\User\Desktop\8_laba_C\8_laba_C\bin\Debug\netcoreapp3.1\8_laba_C.exe
+C:\Users\User\Desktop\8_laba_C\8_laba_C\bin\Debug\netcoreapp3.1\8_laba_C.deps.json
+C:\Users\User\Desktop\8_laba_C\8_laba_C\bin\Debug\netcoreapp3.1\8_laba_C.runtimeconfig.json
+C:\Users\User\Desktop\8_laba_C\8_laba_C\bin\Debug\netcoreapp3.1\8_laba_C.runtimeconfig.dev.json
+C:\Users\User\Desktop\8_laba_C\8_laba_C\bin\Debug\netcoreapp3.1\8_laba_C.dll
+C:\Users\User\Desktop\8_laba_C\8_laba_C\bin\Debug\netcoreapp3.1\8_laba_C.pdb
+C:\Users\User\Desktop\8_laba_C\8_laba_C\obj\Debug\netcoreapp3.1\8_laba_C.csprojAssemblyReference.cache
+C:\Users\User\Desktop\8_laba_C\8_laba_C\obj\Debug\netcoreapp3.1\8_laba_C.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\8_laba_C\8_laba_C\obj\Debug\netcoreapp3.1\8_laba_C.AssemblyInfo.cs
+C:\Users\User\Desktop\8_laba_C\8_laba_C\obj\Debug\netcoreapp3.1\8_laba_C.dll
+C:\Users\User\Desktop\8_laba_C\8_laba_C\obj\Debug\netcoreapp3.1\8_laba_C.pdb
+C:\Users\User\Desktop\Лаба8\Часть 1\8_laba_C\8_laba_C\bin\Debug\netcoreapp3.1\8_laba_C.exe
+C:\Users\User\Desktop\Лаба8\Часть 1\8_laba_C\8_laba_C\bin\Debug\netcoreapp3.1\8_laba_C.deps.json
+C:\Users\User\Desktop\Лаба8\Часть 1\8_laba_C\8_laba_C\bin\Debug\netcoreapp3.1\8_laba_C.runtimeconfig.json
+C:\Users\User\Desktop\Лаба8\Часть 1\8_laba_C\8_laba_C\bin\Debug\netcoreapp3.1\8_laba_C.runtimeconfig.dev.json
+C:\Users\User\Desktop\Лаба8\Часть 1\8_laba_C\8_laba_C\bin\Debug\netcoreapp3.1\8_laba_C.dll
+C:\Users\User\Desktop\Лаба8\Часть 1\8_laba_C\8_laba_C\bin\Debug\netcoreapp3.1\8_laba_C.pdb
+C:\Users\User\Desktop\Лаба8\Часть 1\8_laba_C\8_laba_C\obj\Debug\netcoreapp3.1\8_laba_C.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Лаба8\Часть 1\8_laba_C\8_laba_C\obj\Debug\netcoreapp3.1\8_laba_C.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Лаба8\Часть 1\8_laba_C\8_laba_C\obj\Debug\netcoreapp3.1\8_laba_C.AssemblyInfo.cs
+C:\Users\User\Desktop\Лаба8\Часть 1\8_laba_C\8_laba_C\obj\Debug\netcoreapp3.1\8_laba_C.dll
+C:\Users\User\Desktop\Лаба8\Часть 1\8_laba_C\8_laba_C\obj\Debug\netcoreapp3.1\8_laba_C.pdb
